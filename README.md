@@ -14,7 +14,7 @@ Music lover</br>
 <br>
 
 #### 🎯 tech stack 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,flask,mongodb,java,js,ts,nestjs,cs,dotnet,fastapi,mysql,react,threejs,tailwindcss,git" />
   </a>
