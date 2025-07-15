@@ -14,8 +14,10 @@ Music lover</br>
 <br>
 
 #### 🎯 tech stack 
-<p align="left">
-[![My Skills](https://skillicons.dev/icons?i=py,flask,mongodb,java,js,ts,nestjs,cs,dotnet,fastapi,mysql,react,threejs,tailwindcss,git,blender&theme=light)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,flask,mongodb,java,js,ts,nestjs,cs,dotnet,fastapi,mysql,react,threejs,tailwindcss,git,blender&theme=light" />
+  </a>
 </p>
 
 #### 👾 activity graph
