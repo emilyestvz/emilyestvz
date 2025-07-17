@@ -1,5 +1,5 @@
 <div align='center'>
-  <img src="https://i.gifer.com/5Xyg.gif" height="250"> 
+  <img src="https://i.gifer.com/14bg.gif" height="250"> 
 </div>
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=EFF7F7&width=435&lines=Nothing+happens+before%2C+unless+we+dream.%E2%9C%A8" alt="Typing SVG" /></a>
@@ -19,7 +19,7 @@ Music lover</br>
   <img src="https://img.shields.io/static/v1?message=Vercel&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="vercel logo"  />
 
   <br>
-  
+
   <img src="https://visitor-badge.laobi.icu/badge?page_id=emilyestvz.visitor-badge&left_color=black&right_color=darkorchid"  />
   </a>
 </div>
