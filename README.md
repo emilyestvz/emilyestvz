@@ -14,8 +14,12 @@ Music lover</br>
 <div align="center">
   <a href="https://www.linkedin.com/in/emilycristinydias/" />
   <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" height="25" src="linkedin logo" />
+
+  <a href="https://vercel.com/emilyestvz" />
   <img src="https://img.shields.io/static/v1?message=Vercel&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="vercel logo"  />
+
   <br>
+  
   <img src="https://visitor-badge.laobi.icu/badge?page_id=emilyestvz.visitor-badge&left_color=black&right_color=darkorchid"  />
   </a>
 </div>
